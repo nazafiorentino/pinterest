@@ -9,22 +9,22 @@ const Main = () => {
   className = "my-masonry-grid" 
   columnClassName = "my-masonry-grid_column" > 
 
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
-   <Imagen></Imagen>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
+   <Imagen/>
 </Masonry >
   </main>;
 };
